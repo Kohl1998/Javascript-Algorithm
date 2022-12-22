@@ -17,7 +17,7 @@ Lastly, once I was done I pushed all the updates to my remote repository from my
 ## Usage
 
 ```md
-    ![alt text](assets/images/console finance deployment.png)
+    ![alt text](assets/images/Javascript Algorithm Deployment.png)
     ```
 
 ## Credits
@@ -39,4 +39,4 @@ Click this option and then look at the top of the HTML file, and you will see a 
 
 ## Link
 
-https://kohl1998.github.io/Console-Finances/
+https://kohl1998.github.io/Javascript-Algorithm/

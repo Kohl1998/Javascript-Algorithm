@@ -6,6 +6,8 @@ For this application I built an algorithm that would calculate the tax a sport's
 
 I did this by creating variables to assign data, and arithmetic calculations to work out how much the team exceeded their spending budget which I applied the tax percentage too. 
 
+The motivation for building this algorithm came because I realised I could save the coaches significant time, and effort. 
+
 ## Installation
 
 I setup a remote repo on Github to work from, which I then cloned to my local repository so I can have the two in sync. 

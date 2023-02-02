@@ -16,11 +16,9 @@ Afterwards, I used vscode which is an integrated development environment which a
 
 Lastly, once I was done I pushed all the updates to my remote repository from my local repo using commits, and once I was happy I deployed the changes to the live website.
 
-## Usage
+## screenshot
 
-```md
-    ![alt text](assets/images/Javascript Algorithm Deployment.png)
-    ```
+[![Tax-application.png](https://i.postimg.cc/Gt7dL1g6/Tax-application.png)](https://postimg.cc/tnxLk8jz)
 
 ## Credits
 
